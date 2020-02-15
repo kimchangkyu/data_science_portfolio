@@ -16,7 +16,8 @@
   - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술
 ***    
 ### Python
-
+#### EDA
+- [Diamond EDA](https://github.com/kimchangkyu/Diamond-EDA) : EDA 및 분석을 통해서 다이아몬드의 가격에 영향을 미치는 요소 파악
 #### Regression
 - [prediction of Jamsil baseball park attendance (written in Korean)](https://github.com/kimchangkyu/Prediction_of_Attendance_in_KBO/blob/master/analysis_OLS.ipynb) : 잠실 야구 공원 출범 예측을위한 혼합 모델 제작 : 통계 모델
 
