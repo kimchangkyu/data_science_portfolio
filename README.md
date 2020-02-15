@@ -2,8 +2,9 @@
 
 ## Data Crawling
 - [crawl Music datas from Bugs Website(crawling tool : python scrapy)](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb)
-- [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling
-- [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling
+- [Images crawling with selenium](https://github.com/kimchangkyu/TIL/blob/master/Crawling/15_selenium_3.ipynb) : Selenium을 이용한 이미지 크롤링, 유투브 영상 데이터를 다운로드
+- [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling Practice
+- [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling Practice
 ***
 ## HackerrankPractice
 - [Python](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Python)
@@ -26,5 +27,5 @@
 "goal for"및 "goal against"에서 EPL 팀의 포인트 기반을 예측하기 위해 선형 회귀 모델 생성
 ### Machine learning
 - [classify the theme of news articles](https://github.com/kimchangkyu/TIL/blob/master/Crawling/19_multinomialNB.ipynb) : 뉴스 기사의 주제를 분류하기 위해 Naive Bayes 모델을 작성. TF-IDF를 Text vectorizer / core packege로 사용 : sklearn
-- 
+- [sentiment analysis](https://github.com/kimchangkyu/Micro-sentiment-analysis/blob/master/sentiment%20analysis.ipynb) : 나이브 베이즈 모형을 이용한 영화 데이터 감성 분석
 ***
