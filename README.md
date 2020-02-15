@@ -17,7 +17,7 @@
 - [code](https://github.com/kimchangkyu/R/blob/master/dataset.R), [pdf](https://github.com/kimchangkyu/R/blob/master/house%20price_F.pdf)
 - Practice Skills
   - Creative feature engineering 
-  - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술
+  - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술 사용
     
 ## Python
 ### EDA
