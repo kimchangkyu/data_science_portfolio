@@ -11,9 +11,9 @@
 ***
 ### R
 - [Kaggle housing price prediction](https://github.com/kimchangkyu/R)
-  - Practice Skills
-    - Creative feature engineering 
-    - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술
+- Practice Skills
+  - Creative feature engineering 
+  - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술
 ***    
 ### Python
 
