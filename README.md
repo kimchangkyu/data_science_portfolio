@@ -1,7 +1,7 @@
 # data_science_portfolio
 
 ## Data Crawling
-- [crawl Music datas from Bugs Website(crawling tool : python scrapy](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb)
+- [crawl Music datas from Bugs Website(crawling tool : python scrapy)](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb)
 - [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling
 - [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling
 ***
