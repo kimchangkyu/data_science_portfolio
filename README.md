@@ -5,19 +5,19 @@
 - [Images crawling with selenium](https://github.com/kimchangkyu/TIL/blob/master/Crawling/15_selenium_3.ipynb) : Selenium을 이용한 이미지 크롤링, 유투브 영상 데이터를 다운로드
 - [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling Practice
 - [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling Practice
-***
+
 ## HackerrankPractice
 - [Python](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Python)
 - [SQL](https://github.com/kimchangkyu/HackerrankPractice/tree/master/SQL)
 - [Algorithms](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Algorithms)
 - [30 Days of Code](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Tutorials/30%20Days%20of%20Code)
-***
+
 ## R
 - [Kaggle housing price prediction](https://github.com/kimchangkyu/R)
 - Practice Skills
   - Creative feature engineering 
   - lasso, random forest 및 gradient boosting과 같은 고급 회귀 기술
-***    
+    
 ## Python
 ### EDA
 - [Diamond EDA](https://github.com/kimchangkyu/Diamond-EDA) : EDA 및 분석을 통해서 다이아몬드의 가격에 영향을 미치는 요소 파악
