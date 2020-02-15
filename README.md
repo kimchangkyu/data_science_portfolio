@@ -3,8 +3,8 @@
 ## Data Crawling
 - [crawl Music datas from Bugs Website(crawling tool : python scrapy)](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb)
 - [Images crawling with selenium](https://github.com/kimchangkyu/TIL/blob/master/Crawling/15_selenium_3.ipynb) : Selenium을 이용한 이미지 크롤링, 유투브 영상 데이터를 다운로드
-- [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling Practice
-- [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling Practice
+- [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling
+- [crawl from scrapy](https://github.com/kimchangkyu/TIL/tree/master/Scrapy) : Using scrapy crawling
 
 ## HackerrankPractice
 - [Python](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Python)
