@@ -3,6 +3,7 @@
 ## Data Crawling
 - [crawl Music datas from Bugs Website(crawling tool : python scrapy)](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb)
 - [crawl battleground datas from PUBG document(crawling tool : python requests](https://github.com/kimchangkyu/PUBG-WinPlace-Predict/blob/master/battleground%20datas%20crawl.ipynb) : 배틀그라운드 승률 예측을 위한 데이터 수집
+- [craw community(crawling tool : python scrapy)](https://github.com/kimchangkyu/Prediction_of_Attendance_in_KBO/tree/master/crawling_mpark) : 야구 커뮤니티 사이트 mpark가 야구 관중수 예측에 영향을 주는지 확인하기 위해서 데이터를 수집
 - [crawl naver article](https://github.com/kimchangkyu/TIL/blob/master/Crawling/18_selenium_naver_article.ipynb) : 뉴스 기사 분류 분석을 위한 데이터 수집
 - [Images crawling with selenium](https://github.com/kimchangkyu/TIL/blob/master/Crawling/15_selenium_3.ipynb) : Selenium을 이용한 이미지 크롤링, 유투브 영상 데이터를 다운로드
 - [crawl ways practice](https://github.com/kimchangkyu/TIL/tree/master/Crawling) : Get requests, Post requests, css-selector, Selenium Crawling
