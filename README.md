@@ -18,7 +18,7 @@
 - [30 Days of Code](https://github.com/kimchangkyu/HackerrankPractice/tree/master/Tutorials/30%20Days%20of%20Code)
 
 ## R
-- [Kaggle housing price prediction](https://github.com/kimchangkyu/R)
+- [Kaggle housing price prediction](https://github.com/kimchangkyu/R) : Kaggle Housing price prediction Competition
 - [code](https://github.com/kimchangkyu/R/blob/master/dataset.R), [pdf](https://github.com/kimchangkyu/R/blob/master/house%20price_F.pdf)
 - Practice Skills
   - Creative feature engineering 
