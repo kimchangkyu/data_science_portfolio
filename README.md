@@ -2,7 +2,7 @@
 
 ## Data Crawling
 - [crawl Music datas from Bugs Website(crawling tool : python scrapy)](https://github.com/kimchangkyu/Music-crawling/blob/master/music_datas.ipynb) : Bugs 사이트의 아티스트, 음악 등 다양한 데이터를 수집
-- [crawl battleground datas from PUBG document(crawling tool : python requests](https://github.com/kimchangkyu/PUBG-WinPlace-Predict/blob/master/battleground%20datas%20crawl.ipynb) : 배틀그라운드 승률 예측을 위한 데이터 수집
+- [crawl battleground datas from PUBG document(crawling tool : python requests](https://github.com/kimchangkyu/ML-Battleground-winplace-percent-prediction/blob/master/battleground%20datas%20crawl.ipynb) : 배틀그라운드 승률 예측을 위한 데이터 수집
 - [craw community(crawling tool : python scrapy)](https://github.com/kimchangkyu/Prediction_of_Attendance_in_KBO/tree/master/crawling_mpark) : 야구 커뮤니티 사이트 mpark가 야구 관중수 예측에 영향을 주는지 확인하기 위해서 데이터를 수집
 - [craw KBO results(crawling tool : python requests)](https://github.com/kimchangkyu/Prediction_of_Attendance_in_KBO/blob/master/crawling_kbo_results.ipynb)
 - [craw KBO ranks(crawling tool : python requests)](https://github.com/kimchangkyu/Prediction_of_Attendance_in_KBO/blob/master/crawling_KBO_rank.ipynb)
@@ -34,5 +34,6 @@
 "goal for"및 "goal against"에서 EPL 팀의 포인트 기반을 예측하기 위해 선형 회귀 모델 생성
 - [predict of iris](https://github.com/kimchangkyu/Python/blob/master/Regression_OLS_Ridge_Lasso.ipynb) : OLS, Ridge, Lasso를 이용한 iris 예측 모델 생성
 ### Machine learning
+- [prediction of battleground winplace percent](https://github.com/kimchangkyu/ML-Battleground-winplace-percent-prediction/blob/master/battleground%20analysis.ipynb) : 배틀그라운드 첫 착륙지점에 따른 승률 예측 : RandomForest
 - [classify the theme of news articles](https://github.com/kimchangkyu/TIL/blob/master/Crawling/19_multinomialNB.ipynb) : 뉴스 기사의 주제를 분류하기 위해 Naive Bayes 모델을 작성. TF-IDF를 Text vectorizer / core packege로 사용 : sklearn
 - [sentiment analysis](https://github.com/kimchangkyu/Micro-sentiment-analysis/blob/master/sentiment%20analysis.ipynb) : 나이브 베이즈 모형을 이용한 영화 데이터 감성 분석
